@@ -8,5 +8,5 @@ Report: Report.pdf
 
 PowerBI file: COVID-19 Impact on Australian Economy​.pbix
 
-Presentation: Presentation.MP4
+Presentation: https://drive.google.com/file/d/1synWehgFr4MJQrBzjCIUraqDRPEWroWP/view?usp=sharing
 
